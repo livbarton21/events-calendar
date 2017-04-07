@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 .event-grey {
@@ -13,7 +13,7 @@ html {
   background-color: #d2d6f0;
   border: 1px solid #1d38da;
   border-radius: 6px;
-  color:  #38448e;
+  color: #38448e;
 }
 
 .event-red {
