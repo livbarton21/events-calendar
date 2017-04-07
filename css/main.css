@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: Merriweather, serif;
 }
 
 .event-grey {
@@ -34,6 +34,6 @@ table, th, td {
   border: 1px solid #ccc;
 }
 
-td {
-  height: 160px;
+.height {
+  height: 10em;
 }
